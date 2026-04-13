@@ -83,7 +83,7 @@ This significantly improves debugging and root-cause analysis for failed jobs.
 
 ---
 
-## 📡API Usage
+## API Usage
 
 ### Submit Job
 
